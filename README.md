@@ -1,5 +1,7 @@
 #  _Open-Unmix_ for NNabla
 
+[![Build Status](https://travis-ci.com/sigsep/open-unmix-nnabla.svg?branch=master)](https://travis-ci.com/sigsep/open-unmix-nnabla)
+
 This repository contains the NNabla implementation of __Open-Unmix__, a deep neural network reference implementation for music source separation, applicable for researchers, audio engineers and artists. __Open-Unmix__ provides ready-to-use models that allow users to separate pop music into four stems: __vocals__, __drums__, __bass__ and the remaining __other__ instruments.
 
 ⚠️ Please note that this implementation was not tested to yield the same results as the pytorch version. For that reason, we do not provide an inference method in the nnabla version for now. If you want to use `umx` or `umx-hq` in your work, use the pytorch version for now. See the current implementation status [here](https://github.com/sigsep/open-unmix-nnabla/issues/1)
