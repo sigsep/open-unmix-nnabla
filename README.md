@@ -6,7 +6,7 @@ This repository contains the NNabla implementation of __Open-Unmix__, a deep neu
 
 ⚠️ Please note that this implementation was not tested to yield the same results as the pytorch version. For that reason, we do not provide an inference method in the nnabla version for now. If you want to use `umx` or `umx-hq` in your work, use the pytorch version for now. See the current implementation status [here](https://github.com/sigsep/open-unmix-nnabla/issues/1)
 
-__Related Projects:__ [pytorch](https://github.com/sigsep/open-unmix-pytorch) | nnabla | [tensorflow](https://github.com/sigsep/open-unmix-tensorflow) | [musdb](https://github.com/sigsep/sigsep-mus-db) | [museval](https://github.com/sigsep/sigsep-mus-eval) | [norbert](https://github.com/sigsep/norbert)
+__Related Projects:__ [open-unmix-pytorch](https://github.com/sigsep/open-unmix-pytorch) | open-unmix-nnabla | [tensorflow](https://github.com/sigsep/open-unmix-tensorflow) | [musdb](https://github.com/sigsep/sigsep-mus-db) | [museval](https://github.com/sigsep/sigsep-mus-eval) | [norbert](https://github.com/sigsep/norbert)
 
 ## The Model
 
